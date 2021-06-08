@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flickr-Search</string>
+    <string name="search">Search</string>
+    <string name="no_results">No Result</string>
+    <string name="try_new">Try searching something different</string>
+    <string name="error">Something went wrong!</string>
+    <string name="try_later">Please check your connection or try again later</string>
+</resources>
